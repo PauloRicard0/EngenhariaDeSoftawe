@@ -12,10 +12,14 @@
  <h2>
  <p>Membros do Grupo</p>
  
- <p><a href="https://github.com/jvpererinha">• João Victor</a> </p>
+ <p><a href="https://github.com/PauloRicard0">• Paulo Ricardo</a> </p>
 
- <p><a href="https://github.com/kodagmaster">• Daniel Silva</a> </p>
+ <p><a href="https://github.com/jvpererinha">• João Victor Pereira</a> </p>
+
+ <p><a href="https://github.com/kodagmaster">• :alien: Carlos Daniel Silva</a> </p>
  
- <p><a href="https://github.com/clesiocrc">• Clesio Rodrigues</a></p>
+ <p><a href="https://github.com/clesiocrc">• Clésio Rodrigues</a></p>
+
+ <p><a href="https://github.com/vitorfurt">• Vitor Magalhães</a></p>
 
 </h2>
