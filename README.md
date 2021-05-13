@@ -10,12 +10,20 @@
  <br>
  </h1>
 
-<h2>
+<h3>
  <p>| Professor :mage_man:</p>
-<br>
-<p><a href="https://github.com/agenteph">• Paulo Henrique (PH)</a> </p>
 
- <h2>
+<br>
+
+<p><a href="https://github.com/agenteph">• Paulo Henrique (PH)</a>
+</p>
+
+<br>
+ 
+ </h3>
+
+ <h3>
+
  <p>| Membros do Grupo :people_holding_hands:</p>
  <br>
  <p><a class ="turma" href="https://github.com/PauloRicard0">•:mage_man: Paulo Ricardo</a> </p>
@@ -28,4 +36,7 @@
 
  <p><a class ="turma" href="https://github.com/vitorfurt">•:mage_man: Vitor Magalhães</a></p>
 
-</h2>
+</h3>
+
+
+
